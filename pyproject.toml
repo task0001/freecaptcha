@@ -1,0 +1,16 @@
+[project]
+name = "freecaptcha"
+version = "0.1.0"
+description = "A simple and free reCAPTCHA bypass."
+readme = "README.md"
+authors = [
+    { name = "task0001" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "yarl>=1.18.3",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
