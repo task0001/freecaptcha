@@ -5,10 +5,10 @@ from urllib.request import urlopen
 
 from yarl import URL
 
-__all__ = ("reCAPTCHASolver",)
+__all__ = ("reCAPTCHAV3Solver",)
 
 
-class reCAPTCHASolver:
+class reCAPTCHAV3Solver:
     @staticmethod
     def solve(anchor_url: str) -> str:
         """Solves a reCAPTCHA challenge and returns the token.
