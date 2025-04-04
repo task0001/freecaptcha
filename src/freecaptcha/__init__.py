@@ -5,6 +5,6 @@ Typical usage example:
   token = reCAPTCHASolver.solve(anchor_url)
 """
 
-from .bypass import reCAPTCHASolver
+from .bypass import reCAPTCHAV3Solver
 
-__all__ = ("reCAPTCHASolver",)
+__all__ = ("reCAPTCHAV3Solver",)
