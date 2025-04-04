@@ -1,7 +1,7 @@
 [project]
 name = "freecaptcha"
 version = "0.2.0"
-description = "A simple and free reCAPTCHA bypass."
+description = "A simple and free reCAPTCHA V3 bypass."
 readme = "README.md"
 authors = [
     { name = "task0001" }
