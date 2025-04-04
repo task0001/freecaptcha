@@ -11,7 +11,7 @@ __all__ = ("reCAPTCHAV3Solver",)
 class reCAPTCHAV3Solver:
     @staticmethod
     def solve(anchor_url: str) -> str:
-        """Solves a reCAPTCHA challenge and returns the token.
+        """Solves a reCAPTCHA V3 challenge and returns the token.
 
         Args:
             anchor_url (str): The anchor url, can be found in DevTools by searching "anchor" and copying the URL.
