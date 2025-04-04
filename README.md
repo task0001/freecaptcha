@@ -15,9 +15,9 @@ pip install freecaptcha
 ## Usage/Examples
 
 ```python
-from freecaptcha import reCAPTCHASolver
+from freecaptcha import reCAPTCHAV3Solver
 
-token = reCAPTCHASolver.solve("ANCHOR URL FOR YOUR SITE")
+token = reCAPTCHAV3Solver.solve("ANCHOR URL FOR YOUR SITE")
 
 # Use token within your HTTP request
 ```
