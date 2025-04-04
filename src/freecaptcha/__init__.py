@@ -7,4 +7,6 @@ Typical usage example:
 
 from .bypass import reCAPTCHAV3Solver
 
-__all__ = ("reCAPTCHAV3Solver",)
+__all__ = ("solve", "reCAPTCHAV3Solver",)
+
+solve = reCAPTCHAV3Solver.solve
