@@ -1,8 +1,11 @@
 
 # freecaptcha
 
-A simple and free reCAPTCHA bypass.
+A simple and free reCAPTCHA V3 bypass.
 
+### Disclaimer!
+
+freecaptcha **only works on reCAPTCHA V3**!
 
 ## Installation
 
