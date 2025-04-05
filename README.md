@@ -1,5 +1,6 @@
+![PyPI - Downloads](https://img.shields.io/pypi/dm/freecaptcha)
 
-# freecaptcha
+# freecaptcha 
 
 A simple and free reCAPTCHA V3 bypass.
 
@@ -38,4 +39,10 @@ token = reCAPTCHAV3Solver.solve("ANCHOR URL FOR YOUR SITE")
 ## Authors
 
 - [@task0001](https://www.github.com/task0001)
+
+---
+
+**Show your support and give this repository a ⭐ if you found it helpful.**
+
+---
 
