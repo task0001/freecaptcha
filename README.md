@@ -26,6 +26,8 @@ token = reCAPTCHAV3Solver.solve("ANCHOR URL FOR YOUR SITE")
 # Use token within your HTTP request
 ```
 
+More examples can be found in the [examples](examples/) folder
+
 
 ## How To Find Anchor URL
 
